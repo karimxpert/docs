@@ -4,8 +4,8 @@
   "name": "Gymbly Docs",
   "colors": {
     "primary": "#ef4444",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#ef4444",
+    "dark": "#ef4444"
   },
   "favicon": "/favicon.png",
   "navigation": {
